@@ -1,0 +1,2 @@
+RoboCar/models--Qwen--Qwen2.5-0.5B-Instruct/snapshots/*/model.safetensors filter=lfs diff=lfs merge=lfs -text
+RoboCar/models--openai--whisper-tiny/snapshots/*/model.safetensors filter=lfs diff=lfs merge=lfs -text
